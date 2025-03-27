@@ -68,13 +68,13 @@ Edit
 
  ## Actions
         
-         . Unnecessary Commented Code
-         . HTML Syntax Issues
-         . Improve Accessibility (a11y)
-         . Add alt Attributes to All Images
-         . Improve Readability
-         . Use a More Descriptive <title>
-         . Use rel="noopener noreferrer" in External Links
+        - [x] Unnecessary Commented Code
+        -[x] HTML Syntax Issues
+        -[x] Improve Accessibility (a11y)
+        -[x] Add alt Attributes to All Images
+        -[x] Improve Readability
+        -[x] Use a More Descriptive <title>
+        -[x] Use rel="noopener noreferrer" in External Links
 
 
 
